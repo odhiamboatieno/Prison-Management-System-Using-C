@@ -641,7 +641,7 @@ void editrecord()
             printf("\nPRISONER'S HAIRCOLOR IS: %s",a.haircolor);
 			printf("\nPRISONER'S EYECOLOR IS: %s",a.eyecolor);
             printf("\nPRISONER'S CRIME IS: %s",a.crime);
-            printf("\nTHE PLACE WHERE THE PRISONER WAS CONVICTED IS: %s",a.convictedf);
+            printf("\nTHE PRISONER WAS CONVICTED AT: %s",a.convictedf);
             printf("\nCOURT IS: %s",a.court);
             printf("\nPRISONER'S LAWYER IS: %s",a.lawyer);
     		printf("\nPRISONER'S CONVICTION IS: %s",a.punishment);
@@ -702,7 +702,7 @@ void viewrecord()
         printf("\nPRISONER'S WEIGHT IS: %s",a.weight);
         printf("\nPRISONER'S HEIGHT IS: %s",a.height);
         printf("\nPRISONER'S HAIRCOLOR IS: %s",a.haircolor);
-		printf("\nPRISONER'S EYECOLOR IS: %s",a.eyecolor);
+		printf("\n THE PRISONER'S EYECOLOR IS: %s",a.eyecolor);
         printf("\nPRISONER'S CRIME IS: %s",a.crime);
         printf("\nTHE PLACE WHERE THE PRISONER WAS CONVICTED IS: %s",a.convictedf);
         printf("\nCOURT IS: %s",a.court);
